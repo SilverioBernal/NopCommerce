@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=tcp:h0ehawyllb.database.windows.net,1433;Initial Catalog=nopCommerceTendenMedia;Integrated Security=False;Persist Security Info=False;User ID=usutest@h0ehawyllb;Password=Dialectoplasma4.
